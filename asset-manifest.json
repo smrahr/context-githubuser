@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/context-githubuser/static/css/main.4bebe4c6.chunk.css",
+    "main.js": "/context-githubuser/static/js/main.07502fbd.chunk.js",
+    "main.js.map": "/context-githubuser/static/js/main.07502fbd.chunk.js.map",
+    "runtime-main.js": "/context-githubuser/static/js/runtime-main.f8f937d0.js",
+    "runtime-main.js.map": "/context-githubuser/static/js/runtime-main.f8f937d0.js.map",
+    "static/js/2.61fb3f88.chunk.js": "/context-githubuser/static/js/2.61fb3f88.chunk.js",
+    "static/js/2.61fb3f88.chunk.js.map": "/context-githubuser/static/js/2.61fb3f88.chunk.js.map",
+    "index.html": "/context-githubuser/index.html",
+    "static/css/main.4bebe4c6.chunk.css.map": "/context-githubuser/static/css/main.4bebe4c6.chunk.css.map",
+    "static/js/2.61fb3f88.chunk.js.LICENSE.txt": "/context-githubuser/static/js/2.61fb3f88.chunk.js.LICENSE.txt",
+    "static/media/spinner.dbb22bcf.gif": "/context-githubuser/static/media/spinner.dbb22bcf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8f937d0.js",
+    "static/js/2.61fb3f88.chunk.js",
+    "static/css/main.4bebe4c6.chunk.css",
+    "static/js/main.07502fbd.chunk.js"
+  ]
+}
